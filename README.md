@@ -1,4 +1,4 @@
-### Hallo there, I'm Sunisha 👋
+Hallo there, I'm Sunisha 👋
 
 <!--
 **Sunsiha/sunsiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
