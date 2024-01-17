@@ -53,7 +53,7 @@ I was a native Android developer until 2019. During that period, I used to devel
 </div>
 </p>
 <p>
-🛠 Additional Skills(While I may not consider myself a pro, I can handle the tasks proficiently. I've engaged in POCs, which has given me familiarity with these processes.)
+🛠 Additional Skills(While I may not consider myself a pro in all areas, I can handle the tasks proficiently. I've engaged in POCs, which has given me familiarity with these processes.)
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">
