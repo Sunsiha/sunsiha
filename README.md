@@ -55,24 +55,25 @@ I was a native Android developer until 2019. During that period, I used to devel
 <p>
 🛠 Additional Skills(While I may not consider myself a pro in all areas, I can handle the tasks proficiently. I've engaged in POCs, which has given me familiarity with these processes.)
 <div align="left">
+  <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=lat&logo=Swagger&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=flat&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=flat&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=flat&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=lat&logo=Swagger&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 </div>
 </p>
 🤖 Artificial Intelligence 🔝
