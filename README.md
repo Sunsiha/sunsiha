@@ -8,7 +8,7 @@ Back when I started my career, I made a profile on GitHub with a misspelled name
 Iam basically from India. Right now am living in Heilbronn, Stuttgart. I have 9+years of experience in mobile app development. In flutter and dart, I have 4+years of experience. 
 I was a native Android developer until 2019. During that period, I used to develop native iOS applications as well. So, in native iOS, I have almost 2 years of experience. Later, I got an opportunity to work on Flutter, and I am a self-taught Flutter developer. With 9+ years in mobile and web development, my focus is on user-friendly apps. Leading teams, I streamline the tech side for smooth, practical solutions that people find useful.
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/kurt-liao/so-stats">
@@ -22,6 +22,7 @@ I was a native Android developer until 2019. During that period, I used to devel
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽!<p align="center">
