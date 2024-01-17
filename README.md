@@ -1,6 +1,7 @@
 ### Hello there, I'm Sunisha 👋(Hallo, ich bin Sunisha😉)
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunsiha&label=Profile%20views&color=228B22&style=plastic?" alt="sunsiha"/> <a href="https://github.com/sunsiha/"><img src="https://img.shields.io/github/followers/sunsiha?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>  <a href="https://github.com/sunsiha?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>  <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sunisha-kizhakkethil-ramankutty-7b23bb87/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunisha-kizhakkethil-ramankutty-7b23bb87/)
 
 Back when I started my career, I made a profile on GitHub with a misspelled name🤣. Now, I'm shifting my focus to create cool projects. My goal is to make my profile better😊, get more followers🤩, and connect with people🥰.
 <!-- VISTAS DEL PERFIL -->
