@@ -16,7 +16,7 @@ I was a native Android developer until 2019. During that period, I used to devel
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/kotlin-B125EA?style=flat&logo=kotlin&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=ios&logoColor=white&labelColor=white">
+  <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=ios&logoColor=black&labelColor=white">
   <img src="https://img.shields.io/badge/swift-FA7343?style=flat&logo=swift&logoColor=white&labelColor=black">
 </div>
 </p>
