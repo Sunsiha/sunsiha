@@ -1,8 +1,8 @@
-### Hallo there, I'm Sunisha 👋
-
+### Hallo there, I'm Sunisha 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunsiha&label=Profile%20views&color=0047AB&style=plastic?" alt="sunsiha" /> </p>
+I'm all about making user-friendly apps for phones. I've been doing this for 9+ years, leading teams to create practical solutions. I like keeping things simple and getting stuff done. I enjoy working in mobile and web development. Leading teams, we build apps that people find useful. I focus on making the tech side smooth and practical.
 <p align="center">𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽!<p align="center">
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunsiha&label=Profile%20views&color=0047AB&style=plastic?" alt="sunsiha" /> </p>
+
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunsiha&theme=dracula&column=7" alt="sunsiha" /></a> </p>
 <!--
