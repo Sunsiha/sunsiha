@@ -1,7 +1,10 @@
 ### Hallo there, I'm Sunisha 👋
 
 <p align="center">𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽!<p align="center">
-
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunsiha&label=Profile%20views&color=0047AB&style=plastic?" alt="sunsiha" /> </p>
+<!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunsiha&theme=dracula&column=7" alt="sunsiha" /></a> </p>
 <!--
 **Sunsiha/sunsiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
