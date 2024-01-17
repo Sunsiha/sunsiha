@@ -1,4 +1,4 @@
-### Hello there, I'm Sunisha 👋(Hallo, ich bin Sunisha😉)
+### Hello there, I'm Sunisha 👋(Hallo, ich bin Sunisha😉) 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunsiha&label=Profile%20views&color=228B22&style=flat?" alt="sunsiha"/> <a href="https://github.com/sunsiha/"><img src="https://img.shields.io/github/followers/sunsiha?color=%228B22&label=GitHub%20Followers%20%3A&style=flat"/></a>  <a href="https://github.com/sunsiha?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103&style=flat"/></a>  <a href="https://github.com/Naereen/badges&style=flat"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
 
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&amp;logo=stack-overflow&amp;logoColor=white)](https://stackoverflow.com/users/5146756/sunisha-guptan) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunisha-kizhakkethil-ramankutty-7b23bb87/) [![Website Badge](https://img.shields.io/badge/-Website-228B22?style=flat&logo=Google-Chrome&logoColor=white)](https://sunisha-portfolio.web.app/#/) [![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sunisha_guptan/)
@@ -14,8 +14,14 @@ I was a native Android developer until 2019. During that period, I used to devel
     src="https://so-stats-kurt-liao.vercel.app/api?user=5146756"
   />
 </a>
+
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunsiha&theme=dracula&column=7" alt="sunsiha" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sunsiha&theme=dracula&column=7" alt="sunsiha" />
+  </a>
+</p>
+
 <p align="center">𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽!<p align="center">
 <!--
 **Sunsiha/sunsiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
